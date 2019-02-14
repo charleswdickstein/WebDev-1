@@ -12,3 +12,7 @@ This is a link to an open-source github repository that focuses on checking if a
 
 
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+
+## Charles Dickstein's Comments:
+
+This changes everything. 
